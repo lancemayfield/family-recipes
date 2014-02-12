@@ -6,3 +6,5 @@ Ingredients
  - peas
  
  You need to add more salt
+ 
+Boil till boiling

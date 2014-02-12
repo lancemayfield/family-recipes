@@ -1,3 +1,0 @@
-Salad
-
-Ingredients:
